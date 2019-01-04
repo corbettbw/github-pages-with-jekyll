@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my sblog
 
-I'm glad you are here. I plan to talk about ...
+It is full of spiders. Be careful, and let me know if your thoughts start to get a little...spidery.
